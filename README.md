@@ -1,4 +1,4 @@
-# PS4 Exploit Host
+# PS4 Exploit Host ZIKO
 Firmwares: `9.XX` `10.XX` `11.XX` `12.XX` `13.00`
 
 ## Steps:
